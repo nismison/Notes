@@ -1,0 +1,18 @@
+## 有用的网站
+
+- [码力全开资源站](http://maliquankai.com/designnav)
+- [讯飞开放平台](https://www.xfyun.cn)
+- [正则表达式在线生成工具](http://tools.jb51.net/regex/create_reg)
+- [迅雷网盘会员账号租用](http://amm88.top)
+- [ICP备案系统网站](http://www.beian.miit.gov.cn/state/outPortal/loginPortal.action)
+- [FastMock 在线Mock接口](https://fastmock.site)
+- [UIKits 千库网](https://588ku.com/ui)
+- [GoEasy 在线Websocket网站](https://www.goeasy.io)
+- [uView uni多平台UI开发框架](https://www.uviewui.com)
+- [SteamDB Steam限免游戏](https://steamdb.info/upcoming/free)
+- [Bandwagon 搬瓦工（可能需要VPN）](https://bwh88.net/index.php)
+- [ColouriseSG 黑白照片AI上色（可能需要VPN）](https://colourise.sg)
+- [Pexels 免费高清图片网（可能需要VPN）](https://www.pexels.com/zh-cn)
+- [MockupPhotos 在线生成App预览图（可能需要VPN）](https://mockup.photos)
+- [ThreedIo 在线生成App3D预览图（可能需要VPN）](https://threed.io)
+- [Freenom 免费域名申请（可能需要VPN）](https://www.freenom.com/zh/index.html?lang=zh)
