@@ -77,6 +77,24 @@ export const formatEmail = (email) => {
 
 ------
 
+## 身份证号码中间换成星号
+
+```js
+/**
+ * 身份证号码中间换成****
+ * @param idCard
+ * @returns {string}
+ */
+export const formatIdCard = (idCard) => {
+	if (count(idCard) === 0) {
+		return "";
+	}
+	return idCard.replace(/^(.{6})(?:\w+)(.{4})$/, "\$1********\$2")
+}
+```
+
+------
+
 ## 字符串是否包含
 
 ```js
