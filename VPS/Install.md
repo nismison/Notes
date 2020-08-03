@@ -20,9 +20,9 @@ wget --no-check-certificate -O shadowsocks-libev.sh https://raw.githubuserconten
 
 **如果链接失效，请下载这两个文件进行编译**
 
-[shadowsocks-libev.sh](./Utils/shadowsocks-libev.sh)
+[shadowsocks-libev.sh](./Resource/shadowsocks-libev.sh)
 
-[shadowsocks-libev_CN.sh](./Utils/shadowsocks-libev_CN.sh )
+[shadowsocks-libev_CN.sh](./Resource/shadowsocks-libev_CN.sh )
 
 ------
 
@@ -30,13 +30,13 @@ wget --no-check-certificate -O shadowsocks-libev.sh https://raw.githubuserconten
 
 **Shadowsocks**
 
-[Shadowsocks-4.1.10.0-windows.zip](./Utils/Shadowsocks-4.1.10.0-windows.zip )
+[Shadowsocks-4.1.10.0-windows.zip](./Resource/Shadowsocks-4.1.10.0-windows.zip )
 
-[ShadowsocksX-NG.1.9.4-MacOs.zip](./Utils/ShadowsocksX-NG.1.9.4-MacOs.zip)
+[ShadowsocksX-NG.1.9.4-MacOs.zip](./Resource/ShadowsocksX-NG.1.9.4-MacOs.zip)
 
 **Trojan（推荐）**
 
-[Trojan-Qt5-Windows_3.exe](./Utils/Trojan-Qt5-Windows_3.exe)
+[Trojan-Qt5-Windows_3.exe](./Resource/Trojan-Qt5-Windows_3.exe)
 
-[Trojan-Qt5-macOS.dmg](./Utils/Trojan-Qt5-macOS.dmg)
+[Trojan-Qt5-macOS.dmg](./Resource/Trojan-Qt5-macOS.dmg)
 
