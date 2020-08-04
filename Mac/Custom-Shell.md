@@ -69,4 +69,4 @@ vim ~/.zshrc
 source ~/.bash_profile
 ```
 
-6、重启终端，输入testcc.sh即可运行自定义脚本
+6、重启终端，输入testcc.sh即可运行自定义脚本，如果不喜欢输入扩展名，可以设置对应的alias
