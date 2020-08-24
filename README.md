@@ -2,6 +2,7 @@
 
 - [码力全开资源站](http://maliquankai.com/designnav)
 - [讯飞开放平台](https://www.xfyun.cn)
+- [美图AI开放平台](https://ai.meitu.com/index)
 - [Regex101 正则表达式在线工具](https://regex101.com)
 - [迅雷网盘会员账号租用](http://amm88.top)
 - [ICP备案系统网站](http://www.beian.miit.gov.cn/state/outPortal/loginPortal.action)
